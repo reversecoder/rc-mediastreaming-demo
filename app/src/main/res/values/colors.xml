@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#c1c0bf</color>
+    <color name="colorAccent">#333</color>-->
+    <color name="arrow_color">#333333</color>
+
+    <color name="colorPrimary">#00B4F2</color>
+    <color name="colorPrimaryDark">#0071C9</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="media_item_icon_playing">@color/colorAccent</color>
+    <color name="media_item_icon_not_playing">#ccc</color>
+</resources>
